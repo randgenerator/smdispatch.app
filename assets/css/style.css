@@ -2243,7 +2243,7 @@ hero-btn {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background: linear-gradient(to right, rgb(0 0 0), rgb(0 0 0 / 22%)), url(../img/track.webp) no-repeat center / cover;
+  background: linear-gradient(to right, rgb(0 0 0), rgb(0 0 0 / 22%)), url(../img/track.webp) no-repeat right / cover;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .slider-height {
