@@ -2303,7 +2303,6 @@ hero-btn {
   color: #fff;
   line-height: 95px;
   text-transform: capitalize;
-  margin-bottom: 40px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .slider-area .hero__caption h1 {
